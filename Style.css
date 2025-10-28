@@ -1,0 +1,181 @@
+#title_box {
+  background-color: lightgrey;
+  color:white;
+  display: flex;                       
+  align-items: center;
+  font-family: 'Inter';  
+  font-size: 32px;
+  font-weight: 700;             
+  justify-content: space-between;
+  margin: 45px 110px 0px 110px;
+  padding: 0px 35px;
+}
+
+#info{
+  display: flex;
+  justify-content: center;  
+  align-items:center;
+  flex-wrap: wrap;             
+  gap: 18px 20px;             
+  margin: 0 50px;              
+  padding: 5px 50px;                 
+}
+
+.degree {
+    display: flex;
+}
+
+.degree img{
+  width: 50px;                  
+  height: 50px;                        
+  display: block;
+  margin: 20px 50px 0px 80px;
+}
+
+.degree h1{   
+  font-family: 'Inter';  
+  color:rgba(193, 192, 192, 0.959);                
+  margin: 20px 50px 0px -32px;  
+  padding: 13px 0px;                
+  font-size: 27px;            
+  font-weight: 600;           
+}
+
+.email {
+    display: flex;
+}
+
+.email img{
+  width: 50px;                  
+  height: 50px;                        
+  display: block;
+  margin: 20px 50px 0px 90px;
+}
+
+.email a{   
+  font-family: 'Inter';  
+  color:rgba(193, 192, 192, 0.959);                
+  margin: 20px 50px 0px -35px;  
+  padding: 13px 0px;                
+  font-size: 27px;            
+  font-weight: 600;           
+}
+
+.tel {
+  display: flex;
+}
+
+.tel img{
+  width: 50px;                  
+  height: 50px;                        
+  display: block;
+  margin: 20px 50px 0px 90px;
+}
+
+.tel h1{   
+  font-family: 'Inter';  
+  color:rgba(193, 192, 192, 0.959);                
+  margin: 20px 50px 0px -35px;  
+  padding: 13px 0px;                
+  font-size: 27px;            
+  font-weight: 600;           
+}
+
+#profile_photo{
+  float: left;
+  width: 350px;
+  margin: 80px 120px 0 233px;
+  padding: 20px
+}
+
+#profile_photo img {
+  width: 350px;                  
+  height: 460px;                      
+  display: block;
+}
+
+#Description {
+  float: left; 
+  margin: 20px 0 0 200px;
+  width: 450px;              
+  display: flex;
+  clear: left;       
+  flex-direction: column; /* Locate the Description cards as columns*/
+  gap: 25px;
+  padding-bottom: 60px;
+}
+
+#Education {
+  display: left;
+  overflow: hidden; /* Hide overflowing content */
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 30px;
+  color: #5a5a5a;
+  margin: 80px 0px 0px 140px;
+}
+
+.linia {
+  border-bottom: 2px solid #e5e5e5; /* Color and width line */
+  width: 90%; 
+  margin-top: -35px;
+  margin-right: 40px;
+}
+
+#Education p {
+  font-family: 'Inter'; 
+  font-weight: 600; 
+  color: #979797;
+  font-size: 30px;
+  line-height: 1.8; /* Interliniat */
+}
+
+#Education b {
+  color: #6b6b6b;
+}
+
+.paragraph {
+  margin-bottom: 80px;
+  margin-right: 150px;
+}
+
+.card{
+  background: #f0f0f0;          
+  border-radius: 30px;
+  padding: 18px 22px;
+  color: #6b6b6b;               
+  font-weight: 500;             
+  line-height: 1.45;
+}
+
+.card-title{
+  display: inline-block;
+  margin: 0 0 8px 0;
+  padding: 10px 10px;
+  background: #ffffffcd;          
+  color: #5a5a5a;
+  border-radius: 25px;
+  font-family: 'Inter';  
+  font-size: 22px;
+  font-weight: 700;            
+}
+
+.card-p {
+  font-family: 'Inter'; 
+  font-weight: 600; 
+  font-size: 22px;
+  margin: 4px 0;
+}
+
+/* List for languages*/
+.card-list{
+  margin: 0;
+  padding-left: 18px;           
+}
+.card-list li{
+  margin: 4px 0;
+  font-family: 'Inter';  
+  font-size: 22px;
+  font-weight: 600;     
+}
+
