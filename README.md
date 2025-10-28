@@ -6,7 +6,7 @@ In this case, it is oriented to the human resources professionals or companies s
 
 1.2 Information Architecture: 
 
-In first place, I've decided to write the name as a a large, clear header, followed by the contact and relevant info (E-mail direct link, phone Number, degree), to make it as reachable as possible. 
+In first place, I've decided to write the name as a large, clear header, followed by the contact and relevant info (E-mail direct link, phone Number, degree), to make it as reachable as possible. 
 
 Then, I added my photo to make the website feel more personal and human. Below that, I organised in different card blocks the profile (my personality, how I approach new experiencies...), languages (including certified titles for each), and other hobbies and personal interests as scuba diving, contact sports (MMA, Kickboxing...), climbing and more. This organised format allows visitors to quickly see the details they are looking for.
 
